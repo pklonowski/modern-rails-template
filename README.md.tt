@@ -1,6 +1,6 @@
 # <%= app_name %>
 
-This is a Rails <%= Rails::VERSION::MAJOR %> app created using [modern-rails-template][]. Please check README of the template repository to see the features available out of the box. To have a look to the new features introduced by Rails 5.2 (credentials for example), check this [article][].
+This is a Rails <%= Rails::VERSION::MAJOR %> app created using [pk-modern-rails-template][]. Please check README of the template repository to see the features available out of the box. To have a look to the new features introduced by Rails 5.2 (credentials for example), check this [article][].
 
 ## How to use this project
 
